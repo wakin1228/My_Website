@@ -1,18 +1,19 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Airah Nicolei delos Reyes</title>
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
 
   <header>
     <div class="header-content">
+      <img src="images/avatar.jpg" alt="Airah's Avatar" class="avatar-header">
+      <div>
         <h1>Airah Nicolei delos Reyes</h1>
-                  <img src="images/avatar.jpg" alt="Airah's Avatar" class="avatar-header">
-        <div>
-          <p class="tagline">BS Entrepreneurship Student | Baker | Nature Lover | Artist</p>
+        <p class="tagline">BS Entrepreneurship Student | Baker | Nature Lover | Artist</p>
       </div>
     </div>
   </header>
