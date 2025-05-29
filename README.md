@@ -9,10 +9,10 @@
 
   <header>
     <div class="header-content">
-      <img src="images/avatar.jpg" alt="Airah's Avatar" class="avatar-header">
-      <div>
         <h1>Airah Nicolei delos Reyes</h1>
-        <p class="tagline">BS Entrepreneurship Student | Baker | Nature Lover | Artist</p>
+        <img src="images/avatar.jpg" alt="Airah's Avatar" class="avatar-header">
+        <div>
+          <p class="tagline">BS Entrepreneurship Student | Baker | Nature Lover | Artist</p>
       </div>
     </div>
   </header>
